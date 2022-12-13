@@ -11,30 +11,28 @@ Template Name: Fithub - Gym & Fitness HTML Template
 =========*/
 
 $(document).ready(function($) {
-
 	// Whole Script Strict Mode Syntax
 	"use strict";
 
 	// Portfolio Tabbing JS Start
-    $(function() {
+  $(function() {
     var filterList = {
-        init: function() {
-            // MixItUp plugin
-            // http://mixitup.io
-            $('#portfoliolist').mixItUp({
-                selectors: {
-                    target: '.portfolio-filter',
-                    filter: '.filter'
-                },
-                load: {
-                    filter: '.all, .graphic-design, .web-development, .mobile-app, .motion-graphic'
-                }
-            });
-        }
+      init: function() {
+        // MixItUp plugin
+        // http://mixitup.io
+        $('#portfoliolist').mixItUp({
+          selectors: {
+            target: '.portfolio-filter',
+            filter: '.filter'
+          },
+          load: {
+            filter: '.all, .web-development, .ecommerce'
+          }
+        });
+      }
     };
     // Run the show!
     filterList.init();
-    });
-    // Portfolio Tabbing JS End
-   
+  });
+  // Portfolio Tabbing JS End
 });
