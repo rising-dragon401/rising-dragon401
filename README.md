@@ -16,13 +16,13 @@ I love new challenges and new projects that help me invest all my skills and exp
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/>
   </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/>
   </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"/>
   </a>
-	<a href="https://www.typescriptlang.org/" rel="nofollow">
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;"/>
   </a>
   <a href="https://nodejs.org/en/" rel="nofollow">
@@ -40,7 +40,7 @@ I love new challenges and new projects that help me invest all my skills and exp
   <a href="https://reactjs.org/" rel="nofollow">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"/>
   </a>
-	<a href="https://angular.io/" rel="nofollow">
+  <a href="https://angular.io/" rel="nofollow">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;"/>
   </a>
   <a href="https://vuejs.org/" rel="nofollow">
@@ -113,10 +113,10 @@ I love new challenges and new projects that help me invest all my skills and exp
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" data-canonical-src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="height:20px; max-width: auto; height: 23px;"/>
   </a>
   <a target="_blank" rel="noopener noreferrer" href="">
-    <img src="https://camo.githubusercontent.com/25bbdc5be2869278c78bb26e82cc65f29059699fc7b2e41bb7dc0b56828bb054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d3030433742373f7374796c653d666c6174266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" alt="Netlify" data-canonical-src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=white" style="max-width: auto; height: 23px;"/>
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" data-canonical-src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=white" style="max-width: auto; height: 23px;"/>
   </a>
   <a target="_blank" rel="noopener noreferrer" href="">
-    <img src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" data-canonical-src="https://img.shields.io/badge/Docker-100000?=flat&amp;logo=Docker&amp;logoColor=white" style="max-width: auto; height: 23px;"/>
+    <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" data-canonical-src="https://img.shields.io/badge/Docker-100000?=flat&amp;logo=Docker&amp;logoColor=white" style="max-width: auto; height: 23px;"/>
   </a>
 </p>
 
