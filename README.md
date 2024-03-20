@@ -201,5 +201,5 @@ I love new challenges and new projects that help me invest all my skills and exp
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devconn99&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=8&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devconn99&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rising-dragon401&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=8&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rising-dragon401&show_icons=true&count_private=true&theme=dark)
