@@ -4,6 +4,8 @@
 A passionate and enthusiastic web and mobile developer with 5+ years of experience.<br />
 I love new challenges and new projects that help me invest all my skills and experience into succeeding in them.
 </samp>
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/rising-dragon401/rising-dragon401/blob/main/Logo.gif" />
