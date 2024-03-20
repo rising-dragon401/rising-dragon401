@@ -7,7 +7,7 @@ I love new challenges and new projects that help me invest all my skills and exp
 <hr />
 
 <p align="center">
-  <img src="https://github.com/rising-dragon401/rising-dragon401/main/Logo.gif" />
+  <img src="https://github.com/rising-dragon401/rising-dragon401/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
