@@ -138,7 +138,11 @@ I love new challenges and new projects that help me invest all my skills and exp
 ## Github Stats
 
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rising-dragon401&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rising-dragon401&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">  
-</p>
+<div align=center>
+  <a href="#" title="Go to Source">
+    <img height="180em" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=rising-dragon401&show_icons=true&theme=tokyonight&border_color=00dafb&include_all_commits=true"/>
+  </a>
+  <a href="#" title="Go to Source">
+    <img height="180em" width="45%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=rising-dragon401&theme=tokyonight&border=00dafb&fire=DDB80F"/>
+  </a>
+</div>
